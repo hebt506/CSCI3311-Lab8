@@ -1,0 +1,14 @@
+h2 {
+    font-weight: bold;
+    color: black;
+}
+
+a {
+    color: #DC143C;
+    font-weight: normal;
+}
+
+.axis text {
+    font-weight: bold;
+	font-size: 15px;
+}
